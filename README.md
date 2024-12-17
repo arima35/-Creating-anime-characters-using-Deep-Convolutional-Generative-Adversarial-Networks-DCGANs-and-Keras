@@ -4,7 +4,7 @@ Menggunakan teknologi Deep Learning dengan framework TensorFlow dan Keras untuk 
 
 ## Mentee Info
 
-**Name :** Estu Bekti Cahyana
+**Name :** Arief Indra Kusuma
 
 **Program :** Advanced Artificial Intelligence 
 ## Requirements
