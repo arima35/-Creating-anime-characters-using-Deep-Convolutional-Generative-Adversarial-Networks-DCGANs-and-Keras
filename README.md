@@ -21,16 +21,10 @@ Model ini dilatih untuk memahami pola visual dan detail dalam gambar anime, memu
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
  </div>
+
  
-Analisis Teknologi yang Digunakan
-Keras dan TensorFlow
-Keras adalah pustaka API tinggi yang digunakan untuk membangun dan melatih model deep learning dengan mudah. Dengan TensorFlow sebagai backend, proyek ini memanfaatkan kemampuan komputasi yang sangat baik, terutama dengan dukungan GPU dari Google Colab.
-
-DCGAN
-Deep Convolutional GAN (DCGAN) adalah jenis Generative Adversarial Network (GAN) yang menggunakan arsitektur jaringan konvolusional (CNN) untuk menghasilkan gambar. DCGAN sangat efektif dalam menghasilkan gambar-gambar realistis seperti wajah manusia, seni, dan karakter anime.
-
-Google Colab
-Google Colab menyediakan GPU gratis, yang memungkinkan pelatihan model besar dengan cepat tanpa memerlukan perangkat keras lokal yang mahal.
-
-Generative AI
-Generative AI, seperti GAN, digunakan untuk menghasilkan konten kreatif, seperti gambar dan video, dengan menggunakan data input. Proyek ini menunjukkan bagaimana teknologi Generative AI dapat digunakan untuk menciptakan karakter anime yang sepenuhnya baru berdasarkan pelatihan dari dataset gambar anime.
+## Analisis Teknologi yang Digunakan
+- Keras adalah pustaka API tinggi yang digunakan untuk membangun dan melatih model deep learning dengan mudah. Dengan TensorFlow sebagai backend, proyek ini memanfaatkan kemampuan komputasi yang sangat baik, terutama dengan dukungan GPU dari Google Colab.
+- Deep Convolutional GAN (DCGAN) adalah jenis Generative Adversarial Network (GAN) yang menggunakan arsitektur jaringan konvolusional (CNN) untuk menghasilkan gambar. DCGAN sangat efektif dalam menghasilkan gambar-gambar realistis seperti wajah manusia, seni, dan karakter anime.
+- Google Colab menyediakan GPU gratis, yang memungkinkan pelatihan model besar dengan cepat tanpa memerlukan perangkat keras lokal yang mahal.
+- Generative AI, seperti GAN, digunakan untuk menghasilkan konten kreatif, seperti gambar dan video, dengan menggunakan data input. Proyek ini menunjukkan bagaimana teknologi Generative AI dapat digunakan untuk menciptakan karakter anime yang sepenuhnya baru berdasarkan pelatihan dari dataset gambar anime.
