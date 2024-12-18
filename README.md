@@ -1,6 +1,6 @@
 
 
-# Anime Character Generator Using DCGAN and Keras
+# <h2 align="center"> Anime Character Generator Using DCGAN and Keras </h2>
 <div align="center">
   
 ![Anime Character Generator](https://img.shields.io/badge/Project-Anime_Character_Generator-FF6F00?style=for-the-badge&logo=anime&logoColor=white)
